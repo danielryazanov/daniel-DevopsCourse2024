@@ -1,2 +1,1 @@
-# daniel-DevopsCourse2024
-DevopsCourse2024
+# devopscourse -final workshop
